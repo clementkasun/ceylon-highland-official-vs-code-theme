@@ -1,0 +1,21 @@
+{
+  "name": "ceylon-highlands",
+  "displayName": "Ceylon Highlands",
+  "description": "Ceylon Highlands",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ceylon Highlands",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ceylon Highlands-color-theme.json"
+      }
+    ]
+  }
+}
