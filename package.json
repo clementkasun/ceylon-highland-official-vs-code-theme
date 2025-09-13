@@ -14,9 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ceylon Highlands",
+        "label": "Ceylon Flag theme",
         "uiTheme": "vs",
-        "path": "./themes/Ceylon Highlands-color-theme.json"
+        "path": "./themes/Ceylon-flag-theme.json"
+      },
+       {
+        "label": "Galle Sea theme",
+        "uiTheme": "vs",
+        "path": "./themes/Galle-sea.json"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
 	"name": "Ceylon Highlands",
 	"colors": {
-		"editor.background": "#501e01",
+		"editor.background": "#693120",
 		"editor.foreground": "#f5f5f5",
 		"activityBarBadge.background": "#867764",
 		"sideBarTitle.foreground": "#482edd",
-		"sideBar.background":"#973a3a",
-		"activityBar.background": "#446d4a"
+		"sideBar.background":"#df6f07",
+		"activityBar.background": "#4bcf5f"
 	},
 	"tokenColors": [
 		{
