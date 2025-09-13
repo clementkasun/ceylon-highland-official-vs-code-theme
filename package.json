@@ -2,10 +2,12 @@
   "name": "ceylon-highlands",
   "displayName": "Ceylon Highlands",
   "description": "Ceylon Highlands",
+  "publisher": "clementechs",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
   },
+  "icon": "logo.jpg",
   "categories": [
     "Themes"
   ],
@@ -13,7 +15,7 @@
     "themes": [
       {
         "label": "Ceylon Highlands",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Ceylon Highlands-color-theme.json"
       }
     ]
